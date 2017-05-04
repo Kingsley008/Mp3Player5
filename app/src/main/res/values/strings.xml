@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mp3Player</string>
+    <string name="title_activity_mp3_list_acivity">Mp3ListAcivity</string>
+    <string name="mp3list.update">更新列表</string>
+    <string name="mp3list.about"></string>
+    <string name="title_activity_l">L</string>
+</resources>
