@@ -180,6 +180,5 @@ public class PlayerActivity extends AppCompatActivity {
             //每十毫秒更新一次
             handler.postDelayed(updateTimeCallback, 10);
         }
-
     }
 }
